@@ -6,9 +6,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img  alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg">
-  <img  alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img  alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  alt="Android Dev Java / Kotlin" height="30" width="40" src="https://icongr.am/devicon/android-original.svg">
 </div>
 <br><br>
 <div> 
